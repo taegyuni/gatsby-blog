@@ -1,6 +1,6 @@
 module.exports = {
   title: `Slow but Fast`,
-  description: `Blog posted about ...`,
+  description: `태균이의 블로그입니다. 개발 관련 된 것을 기록합니다.`,
   author: `Taegyuni`,
   introduction: `언제나 화이팅!`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
